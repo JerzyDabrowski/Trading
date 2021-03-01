@@ -37,7 +37,7 @@ def plot_money_chart(live_time, sell_action_result, money_invested_in_stock):
     ax.set_title('Money Chart')
     ax.set_xlabel('Time')
     plt.show()
-
+    pass
 
 
 #read data
